@@ -25,11 +25,12 @@
 ![NeoVim](https://img.shields.io/badge/-neovim-05122A?style=flat&logo=neovim)&nbsp;
 ![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDb)\
 ![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
-![Redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)&nbsp;
+![Premiere](https://img.shields.io/badge/-Premiere-05122A?style=flat&logo=Adobe-Premiere-Pro)&nbsp;
 ![Consul](https://img.shields.io/badge/-consul-05122A?style=flat&logo=consul)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Premiere](https://img.shields.io/badge/-Premiere-05122A?style=flat&logo=Adobe-Premiere-Pro)&nbsp;
+![Redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)&nbsp;
+
 
 
 
