@@ -32,5 +32,4 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mask0305&theme=onedark" alt="mask0305" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mask0305&show_icons=true&locale=en&layout=compact&theme=onedark" alt="mask0305" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mask0305&label=Profile%20views&color=0e75b6&style=flat" alt="mask0305" /> </p>
