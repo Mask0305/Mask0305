@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mask0305&include_all_commits=true&count_private=true&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/api?username=mask0305&include_all_commits=true&count_private=true&show_icons=true&theme=onedark)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mask0305&theme=onedark&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
