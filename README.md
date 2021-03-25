@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=mask0305&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mask0305&include_all_commits=true&count_private=true&show_icons=true&theme=onedark)](https://github-readme-stats.vercel.app/api?username=mask0305&include_all_commits=true&count_private=true&show_icons=true&theme=onedark)
 
