@@ -14,17 +14,23 @@
 ### 🛠 &nbsp;Tech Stack
 
 
-![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)&nbsp;
-![NeoVim](https://img.shields.io/badge/-neovim-05122A?style=flat&logo=neovim)&nbsp;
+
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)\
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-express-05122A?style=flat&logo=express)&nbsp;
-![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)&nbsp;
+![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)&nbsp;
+![NeoVim](https://img.shields.io/badge/-neovim-05122A?style=flat&logo=neovim)&nbsp;
 ![mongoDB](https://img.shields.io/badge/-mongoDB-05122A?style=flat&logo=mongoDb)\
 ![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
-![Redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)\
-![Consul](https://img.shields.io/badge/-consul-05122A?style=flat&logo=consul)&nbsp;
+![Redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)&nbsp;
+![Consul](https://img.shields.io/badge/-consul-05122A?style=flat&logo=consul)\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Premiere](https://img.shields.io/badge/-Premiere-05122A?style=flat&logo=Adobe-Premiere-Pro)&nbsp;
+
 
 
 
