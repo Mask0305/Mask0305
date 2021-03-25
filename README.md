@@ -12,6 +12,8 @@
 >
 -->
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Vim](https://img.shields.io/badge/-vim-05122A?style=flat&logo=vim)&nbsp;
@@ -24,12 +26,6 @@
 ![MySQL](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![Redis](https://img.shields.io/badge/-redis-05122A?style=flat&logo=redis)\
 ![Consul](https://img.shields.io/badge/-consul-05122A?style=flat&logo=consul)&nbsp;
-
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mask0305&theme=darkhub" alt="mask0305" /></a> </p>
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mask0305&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave" alt="mask0305" />
@@ -44,12 +40,8 @@
 
 <p> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mask0305&theme=darkhub" alt="mask0305" /></a> </p>
+
+<p> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mask0305&label=Profile%20views&color=blueviolet&style=plastic" alt="mask0305" /> </p>
-
-
-
-
-
-
-
 
