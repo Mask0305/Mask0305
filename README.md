@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mask</h1>
+<h1 align="center">Hi 👋, I'm Mask <img src="https://i.imgur.com/afiEub6.gif" width="40" /> </h1> 
 <h3 align="center">A passionate backend developer from Taiwan</h3>
 
 <h4 align="left">🔭 I’m currently working on Tyr-tech</h4>
