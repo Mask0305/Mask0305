@@ -40,7 +40,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mask0305&theme=synthwave" width=420" alt="mask0305" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mask0305&theme=synthwave" width=420" alt="mask0305" />
 </a>
 </div>
 <hr>                                                                                                                                
