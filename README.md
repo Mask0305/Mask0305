@@ -27,4 +27,4 @@
 
 <p> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mask0305&label=Profile%20views&color=0e75b6&style=blueviolet" alt="mask0305" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mask0305&label=Profile%20views&color=blueviolet&style=plastic" alt="mask0305" /> </p>
