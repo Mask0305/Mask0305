@@ -31,7 +31,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-
+<div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mask0305&theme=darkhub" alt="mask0305" /></a> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -42,8 +42,5 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mask0305&theme=synthwave" width=47%" alt="mask0305" />
 </a>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mask0305&label=Profile%20views&color=blueviolet&style=plastic" alt="mask0305" /> </p>
-
+</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mask0305&label=Profile%20views&color=blueviolet&style=plastic" alt="mask0305" /> </p>
