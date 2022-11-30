@@ -3,7 +3,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 <p> </p>
-<h4 align="left">🔭 I’m currently working on Tyr-tech</h4>
+<h4 align="left">🔭 I’m currently freelancer</h4>
 <h4 align="left">🌱 I’m currently learning Golang and Solidity</h4> 
 
 <!--
